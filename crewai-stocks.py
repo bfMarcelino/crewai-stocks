@@ -5,6 +5,12 @@
 #langchain-community==0.0.38
 #duckduckgo-search==5.3.0
 
+#commands
+#python -m venv env-agent     
+#jupyter nbconvert --to script crewai-storcks.ipynb  
+#streamlit run crewai-stocks.py                    
+
+
 #Import das libs
 import json
 import os
